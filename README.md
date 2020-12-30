@@ -9,4 +9,6 @@ Se trata de una mini-app que gestiona la administración de viajes con diferente
 - CSS
 - JS
 
+# UML
+
 # Imagenes de referencia
