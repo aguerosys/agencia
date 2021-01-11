@@ -7,7 +7,7 @@ Se trata de una mini-app que gestiona la administración de viajes con diferente
 - PHP POO
 - MySQL
 - CSS
-- JSON Token
+- JS
 
 # UML
 
